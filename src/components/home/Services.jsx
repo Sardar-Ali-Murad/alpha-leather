@@ -8,7 +8,7 @@ const Services = () => {
 
         <div className="box-container">
           <div className="box">
-            <img src="images/services/custom-bag.png" alt="Custom Bag Design" />
+            <img src="images/services/1.png" alt="Custom Bag Design" />
             <h3>Custom Bag Design</h3>
             <p>
               Get a bag designed exclusively for you! Choose materials, colors, 
@@ -17,7 +17,7 @@ const Services = () => {
           </div>
 
           <div className="box">
-            <img src="images/services/leather-repair.png" alt="Leather Bag Repair" />
+            <img src="images/services/2.png" alt="Leather Bag Repair" />
             <h3>Leather Bag Repair</h3>
             <p>
               Restore your favorite leather bags with expert repairs. We fix scratches, 
@@ -26,7 +26,7 @@ const Services = () => {
           </div>
 
           <div className="box">
-            <img src="images/services/bag-personalization.png" alt="Bag Personalization" />
+            <img src="images/services/3.png" alt="Bag Personalization" />
             <h3>Bag Personalization</h3>
             <p>
               Add initials, logos, or custom artwork to make your bag unique.
@@ -35,7 +35,7 @@ const Services = () => {
           </div>
 
           <div className="box">
-            <img src="images/services/luxury-bags.png" alt="Luxury Handbags" />
+            <img src="images/services/4.png" alt="Luxury Handbags" />
             <h3>Luxury Handbags</h3>
             <p>
               Explore our premium collection of designer handbags made from 
@@ -44,7 +44,7 @@ const Services = () => {
           </div>
 
           <div className="box">
-            <img src="images/services/bag-care.png" alt="Bag Care & Cleaning" />
+            <img src="images/services/5.png" alt="Bag Care & Cleaning" />
             <h3>Bag Care & Cleaning</h3>
             <p>
               Keep your bags looking new with our professional cleaning and 
@@ -53,7 +53,7 @@ const Services = () => {
           </div>
 
           <div className="box">
-            <img src="images/services/travel-bags.png" alt="Travel Bags & Accessories" />
+            <img src="images/services/6.png" alt="Travel Bags & Accessories" />
             <h3>Travel Bags & Accessories</h3>
             <p>
               Durable and stylish travel bags designed for comfort and 
@@ -62,7 +62,7 @@ const Services = () => {
           </div>
 
           <div className="box">
-            <img src="images/services/bag-repair.png" alt="Zipper & Strap Fixing" />
+            <img src="images/services/7.png" alt="Zipper & Strap Fixing" />
             <h3>Zipper & Strap Fixing</h3>
             <p>
               Fix broken zippers, replace straps, and reinforce stitching 
@@ -71,7 +71,7 @@ const Services = () => {
           </div>
 
           <div className="box">
-            <img src="images/services/designer-bags.png" alt="Exclusive Designer Bags" />
+            <img src="images/services/8.jpg" alt="Exclusive Designer Bags" />
             <h3>Exclusive Designer Bags</h3>
             <p>
               Discover limited-edition designer bags crafted for elegance 

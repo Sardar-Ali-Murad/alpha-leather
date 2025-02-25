@@ -9,7 +9,7 @@ import ImageGrid from "../components/home/ImageGrid";
 const HomePage = () => {
   return (
     <>
-      <Hero />
+      {/* <Hero /> */}
       <ImageGrid />
       <Offers />
       <About />

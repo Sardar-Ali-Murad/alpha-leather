@@ -12,7 +12,7 @@ export default function Hero() {
             <Swiper navigation={true} modules={[Navigation]}>
               <SwiperSlide>
                 <div className="slide">
-                  <img src="images/bag-1.jpeg" className="heroImage" />
+                  <img src="images/project-1.jpg" className="heroImage" />
                   <div className="home-section-wrap">
                     <div className="content home-section">
                       <h3>Timeless Bags for Every Occasion</h3>
